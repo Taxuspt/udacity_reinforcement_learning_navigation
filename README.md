@@ -42,4 +42,4 @@ You should be able to run the imports on the first cell of [DQN_banana.ipynb](DQ
 Run [DQN_banana.ipynb](DQN_banana.ipynb) to train and test an agent.
 
 You should be able to get an average score of ~15 after 1000 episodes.
-You can also load a previously agent directly, without having to run the training job.
+You can also load a previously trained agent directly, without having to run the training job.
