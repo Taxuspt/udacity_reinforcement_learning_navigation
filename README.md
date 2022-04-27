@@ -35,7 +35,7 @@ You should be able to run the imports on the first cell of [DQN_banana.ipynb](DQ
 
 `monkey_agent.py` - Your agent that interacts and learns from the agent.
 
-`model` - A neural network modelling the state-action value function.
+`model` - A neural network modelling the state value function.
 
 
 ## Training and running the agent

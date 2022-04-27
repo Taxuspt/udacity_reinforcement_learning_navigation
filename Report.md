@@ -8,7 +8,7 @@ The training algorithm is roughly structure as follows:
 - This tuple (new state, reward, done) is passed to the agent so it can update it's learning process.
 - The new state is passed to the agent, restarting the loop.
 
-The state-action value function is modeled as a Neural Network with 2 hidden dense layers (each with 64 units). The parameters used in the DQN algorithm are the default given on the course:
+The state value function is modeled as a Neural Network with 2 hidden dense layers (each with 64 units). The parameters used in the DQN algorithm are the default given on the course:
 Maximum steps per episode: 1000 (irrelevant since the environment finishes after 300 steps)
 Starting epsilion: 1.0
 Ending epsilion: 0.01
